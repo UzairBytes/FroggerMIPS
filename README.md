@@ -1,1 +1,2 @@
 # FroggerMIPS
+Implementation of Frogger in MIPS Assembly using Mars (MIPS Assembler and Runtime Simulator) as a CSC258: Computer Architecture final project at the University of Toronto. If you don't have it installed, you can get it from https://courses.missouristate.edu/kenvollmar/mars/download.htm before you download the code and run it. The display and keyboard settings for correct usage are in the assembly file.
